@@ -1,0 +1,5 @@
+{
+  "name": "BrincaMinuto",
+  "description": "A 'boredom buster' activity generator for parents and children. Get a single, simple activity suggestion based on filters like age, time, and available materials, designed to replace screen time with moments of connection.",
+  "requestFramePermissions": []
+}
